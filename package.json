@@ -5,12 +5,14 @@
   "repository": "https://github.com/StanMilo/dl-zad.git",
   "author": "Stan <stygia86@gmail.com>",
   "license": "MIT",
-
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "serve": "nodemon index.js"
   },
-
   "dependencies": {
     "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
   }
 }
