@@ -1,0 +1,16 @@
+{
+  "name": "dl-zad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/StanMilo/dl-zad.git",
+  "author": "Stan <stygia86@gmail.com>",
+  "license": "MIT",
+
+  "scripts": {
+    "start": "node index.js"
+  },
+
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
